@@ -1,5 +1,5 @@
-Backend: https://backendrva2021.herokuapp.com/
-Frontend: https://hopeful-austin-74aa4b.netlify.app/
+Backend test: https://backendrva2021.herokuapp.com/
+Frontend test: https://hopeful-austin-74aa4b.netlify.app/
 
 Backend repository: https://github.com/finkstefan/RVABackEnd.git
 Frontend repository: https://github.com/finkstefan/RVAFrontEnd.git
